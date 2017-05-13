@@ -12,5 +12,5 @@ for (let i = 0; i < 10; i++) {
     }
     console.log(bubbleArr);
 }
-console.log(bubbleArr);
+console.log("hhh");
 
