@@ -13,7 +13,7 @@ binarySearch = (binArray, low, high, key) => {
     }
 }
 
-let tempArray = [22, 13, 34, 65, 38, 92, 66, 78, 99, 55];
+let tempArray = [21, 13, 34, 65, 38, 92, 66, 78, 99, 55];
 
 let tempResult = binarySearch(tempArray, 0, 9, 78);
 console.log(tempResult);
